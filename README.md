@@ -6,7 +6,7 @@ I am a FrontEnd Developer who loves React JS
 
 * 🌍  I'm based in VietNam
 * ✉️  You can contact me at [nguyenduylk202@gmail.com](mailto:nguyenduylk202@gmail.com)
-* 🧠  I'm learning BackEnd
+* 🧠  I'm currently learning BackEnd
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
