@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Duy Nguyen
+ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi my name is Duy Nguyen
 ==================================================================================================================================
 
 
@@ -6,7 +6,7 @@ I am a FrontEnd Developer who loves React JS
 
 * 🌍  I'm based in VietNam
 * ✉️  You can contact me at [nguyenduylk202@gmail.com](mailto:nguyenduylk202@gmail.com)
-* 🧠  I'm currently learning BackEnd
+* 🧠  I'm currently learning BackEnd NodeJS
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Languages , Tools I Know
