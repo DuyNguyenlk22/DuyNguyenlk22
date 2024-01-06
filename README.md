@@ -2,7 +2,7 @@
 ==================================================================================================================================
 
 
-I am a FrontEnd Developer who loves React JS
+I am a Web Developer who loves JavaScript
 
 * 🌍  I'm based in VietNam
 * ✉️  You can contact me at [nguyenduylk202@gmail.com](mailto:nguyenduylk202@gmail.com)
