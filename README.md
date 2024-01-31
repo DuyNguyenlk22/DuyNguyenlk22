@@ -2,7 +2,7 @@
 ==================================================================================================================================
 
 
-Welcome to my world ! ⚙️💻 <br/>
+Welcome to my world !!! <br/>
 I am a Web Developer who loves JavaScript with an ambition to countinue learning and passionate about crafting creative solutions.<br/>
 Your exploration starts now – see what awaits below! ⚡🔍
 
