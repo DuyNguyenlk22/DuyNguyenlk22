@@ -2,7 +2,7 @@
 ==================================================================================================================================
 
 
-I am a Web Developer who loves JavaScript with an ambition to countinue learning.The following are my interesting projects.
+Welcome to my GitHub repository! I am a Web Developer who loves JavaScript with an ambition to countinue learning and passionate about crafting creative solutions.Your exploration starts now – see what awaits below! ⚡🔍
 
 * 🌍  I'm based in VietNam
 * ✉️  You can contact me at [nguyenduylk202@gmail.com](mailto:nguyenduylk202@gmail.com)
