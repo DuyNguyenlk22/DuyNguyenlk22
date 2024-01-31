@@ -2,7 +2,7 @@
 ==================================================================================================================================
 
 
-Welcome to my GitHub repository! 
+Welcome to my GitHub repository! <br/>
 I am a Web Developer who loves JavaScript with an ambition to countinue learning and passionate about crafting creative solutions.Your exploration starts now – see what awaits below! ⚡🔍
 
 * 🌍  I'm based in VietNam
