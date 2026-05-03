@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="600" alt="Welcome GIF" />
-</p>
-
 <h1 align="center">Hi, I'm Duy Nguyen! 👋</h1>
 
 <p align="center">
@@ -55,14 +51,6 @@ I am a passionate Web Developer based in **Vietnam** with a mission to craft cre
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical" alt="Duy's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
-<p align="center">
-  <i>"The best way to predict the future is to invent it."</i>
+  <i>"The magic you're looking for is in the work you're avoiding."</i>
 </p>
