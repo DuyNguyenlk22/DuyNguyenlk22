@@ -15,7 +15,7 @@
 I am a passionate Web Developer based in **Vietnam** with a mission to craft creative, efficient, and user-centric solutions. Currently, I am expanding my horizons into the world of **Backend Engineering**.
 
 * 🌍  **Location:** Vietnam
-* 🧠  **Focus:** Deepening knowledge in Node.js, NestJS, and Flutter/Dart.
+* 🧠  **Focus:** Deepening knowledge in Node.js, NestJS, and ReactJS.
 * 🤝  **Collaboration:** I'm always open to interesting Open Source projects or innovative startups.
 * ⚡  **Fun Fact:** I believe clean code is a form of art.
 
