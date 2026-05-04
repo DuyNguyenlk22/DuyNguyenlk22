@@ -14,10 +14,22 @@
 ### 🚀 About Me
 I am a passionate Web Developer based in **Vietnam** with a mission to craft creative, efficient, and user-centric solutions. Currently, I am expanding my horizons into the world of **Backend Engineering**.
 
-* 🌍  **Location:** Vietnam
-* 🧠  **Focus:** Deepening knowledge in Node.js, NestJS, and ReactJS.
-* 🤝  **Collaboration:** I'm always open to interesting Open Source projects or innovative startups.
-* ⚡  **Fun Fact:** I believe clean code is a form of art.
+## 🧠 Engineering Profile
+
+```ts
+const duyNguyen = {
+  location: "Vietnam",
+  role: "Frontend Developer",
+  focus: [
+    "Scalable Frontend Architecture",
+    "Backend with Node.js & NestJS",
+    "Performance Optimization"
+  ],
+  mindset: "Clean code = maintainable systems",
+  collaboration: "Open Source • Startups • Product Teams"
+  fun_fact: "I believe clean code is a form of art.",
+}
+```
 
 ---
 
@@ -31,7 +43,7 @@ I am a passionate Web Developer based in **Vietnam** with a mission to craft cre
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
 #### **Back-End & Database**
@@ -47,6 +59,8 @@ I am a passionate Web Developer based in **Vietnam** with a mission to craft cre
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Antigravity-6E56CF?style=flat-square&logo=rocket&logoColor=white" alt="Antigravity" />
 </p>
 
 ---
