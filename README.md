@@ -26,8 +26,8 @@ const duyNguyen = {
     "Performance Optimization"
   ],
   mindset: "Clean code = maintainable systems",
-  collaboration: "Open Source • Startups • Product Teams"
-  fun_fact: "I believe clean code is a form of art.",
+  collaboration: "Open Source • Startups • Product Teams",
+  fun_fact: "I believe clean code is a form of art."
 }
 ```
 
