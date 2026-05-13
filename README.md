@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Duy Nguyen! 👋</h1>
 
 <p align="center">
-  <strong>Web Developer | JavaScript Enthusiast | Creative Problem Solver</strong>
+  <strong>Web Developer | Frontend Developer | React | Creative Problem Solver</strong>
 </p>
 
 <p align="center">
